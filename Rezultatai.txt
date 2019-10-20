@@ -1,0 +1,11 @@
+Simo 2.5  Lino  3 Manto 1.5
+Simo 7  Lino  5 Manto 4
+Simo 3.25  Lino  2.75 Manto 1.57
+Simo 2.5  Lino  2.35 Manto 2.4
+Simo 0  Lino  1.5 Manto 2
+Simo 0  Lino  0 Manto 0
+Simo 4.25  Lino  2.75 Manto 3.25
+Simo 1.25  Lino  1 Manto 1.35
+Simo 5.25  Lino  1.25 Manto 6
+Simo 2  Lino  1 Manto 3
+Simas isleido  28    Linas isleido  20.6   Mantas isleido  25.07
